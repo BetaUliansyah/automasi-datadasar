@@ -10,7 +10,7 @@ Untuk mendapatkan data seluruh daerah, setidaknya ada 4 metode:
 
 ## Cara Pembuatan
 Simulasikan pengambilan data untuk satu daerah menggunakan Chrome, lalu cek variabel-variabel apa saja yang dikirim melalui POST dengan membuka fitur Inspect, Networks, Headers.
-![inspect POST variables](automasi-datadasar/blob/master/img/Screen%20Shot%202019-12-26%20at%2010.09.34.png)
+![inspect POST variables](img/Screen%20Shot%202019-12-26%20at%2010.09.34.png)
 
 Lakukan looping di python dengan value nama-nama seluruh daerah di Indonesia sebagai iterasi.
 
